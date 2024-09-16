@@ -13,4 +13,9 @@
 
 ## Enlaces a:
 - Expo: https://snack.expo.dev/@franckalv/mexican-resturant-project
-- Video de explicación: 
+- Video de explicación: Se entregó el snack, entonces se omite el video
+
+- Importante: Hemos creado usuarios para poder acceder al programa, puede usar los siguientes:
+
+- Username: Roberto    Username:Francisco
+- Password: 1234       Password:1234
